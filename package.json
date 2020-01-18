@@ -12,7 +12,7 @@
 		"express": "^5.0.0-alpha.2",
 		"express-validator": "^6.3.1",
 		"mongodb": "^2.2.5",
-		"mongoose": "^4.5.7"
+		"mongoose": "^5.7.5"
 	},
 	"engines": {
 		"node": "4.4.5"
