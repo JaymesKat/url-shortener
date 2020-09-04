@@ -11,7 +11,7 @@
 		"cors": "^2.8.1",
 		"express": "^5.0.0-alpha.2",
 		"express-validator": "^6.3.1",
-		"mongodb": "^2.2.5",
+		"mongodb": "^3.1.13",
 		"mongoose": "^4.5.7"
 	},
 	"engines": {
